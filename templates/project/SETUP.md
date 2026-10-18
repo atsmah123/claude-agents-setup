@@ -5,7 +5,7 @@ later supervisor session before its first answer (`CLAUDE.md` -> Start of sessio
 is missing here or has changed -- never the same setup question twice. One section per machine; the SessionStart hook
 prints this file and the current host so a session can tell whether its machine has a section yet.
 
-## Machine: [name] (hosts: [hostname pattern, e.g. `lh-login*`, `gpu-node-0[1-4]`])
+## Machine: [name] (hosts: [hostname pattern, e.g. `login*`, `gpu-node-0[1-4]`])
 
 Settled [YYYY-MM-DD] with the user ([one-line quote of any decision that was a real choice]).
 
